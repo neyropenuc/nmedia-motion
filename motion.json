@@ -1,0 +1,47 @@
+[
+  {
+    "id": "9-priemov",
+    "title": "9 ПРИЁМОВ",
+    "description": "Внутренний проект студии: 25-секундный шоурил, где главный герой — один шар. В каждом блоке он показывает отдельный навык моушн-дизайна: тайминг, физику, типографику, ритм, пластику, 3D-формы, частицы, анимационные системы и стилизацию.\n\nТакую графику делаем для рекламы, презентаций продуктов и соцсетей.",
+    "preview": "https://neyropenuc.github.io/nmedia-motion/9-priemov/cover.jpg",
+    "preview_vid": "https://neyropenuc.github.io/nmedia-motion/9-priemov/bg.mp4",
+    "images": [
+      "https://neyropenuc.github.io/nmedia-motion/9-priemov/photo1.jpg",
+      "https://neyropenuc.github.io/nmedia-motion/9-priemov/photo2.jpg",
+      "https://neyropenuc.github.io/nmedia-motion/9-priemov/photo3.jpg"
+    ],
+    "videos": [
+      "https://neyropenuc.github.io/nmedia-motion/9-priemov/video.mp4"
+    ]
+  },
+  {
+    "id": "claude",
+    "title": "CLAUDE",
+    "description": "Мы дали Claude пять фраз из типичного брифа: «логотип должен дышать», «продажи должны взлететь», «сделай вирусно». Он выполнил каждую дословно: логотип дышит, пока не лопнет, а столбик продаж улетает за край кадра и не возвращается. Анимацию и звук по нашему сценарию Claude написал кодом сам.\n\nНейросеть понимает ТЗ буквально. Мы понимаем, что вы имели в виду.",
+    "preview": "https://neyropenuc.github.io/nmedia-motion/claude/cover.jpg",
+    "preview_vid": "https://neyropenuc.github.io/nmedia-motion/claude/bg.mp4",
+    "images": [
+      "https://neyropenuc.github.io/nmedia-motion/claude/photo1.jpg",
+      "https://neyropenuc.github.io/nmedia-motion/claude/photo2.jpg",
+      "https://neyropenuc.github.io/nmedia-motion/claude/photo3.jpg"
+    ],
+    "videos": [
+      "https://neyropenuc.github.io/nmedia-motion/claude/video.mp4"
+    ]
+  },
+  {
+    "id": "duolingo",
+    "title": "DUOLINGO",
+    "description": "Все, кто учил язык в Duolingo, знают эту сову: сначала она вежливо зовёт на урок, потом обижается, а потом начинает угрожать.\n\nСценарий, анимация и озвучка сделаны с помощью нейросетей.",
+    "preview": "https://neyropenuc.github.io/nmedia-motion/duolingo/cover.jpg",
+    "preview_vid": "https://neyropenuc.github.io/nmedia-motion/duolingo/bg.mp4",
+    "images": [
+      "https://neyropenuc.github.io/nmedia-motion/duolingo/photo1.jpg",
+      "https://neyropenuc.github.io/nmedia-motion/duolingo/photo2.jpg",
+      "https://neyropenuc.github.io/nmedia-motion/duolingo/photo3.jpg"
+    ],
+    "videos": [
+      "https://neyropenuc.github.io/nmedia-motion/duolingo/video.mp4"
+    ]
+  }
+]
